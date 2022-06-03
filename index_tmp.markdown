@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <h1 style="font-size: 40px">第69回トポロジーシンポジウム</h1>
 
@@ -74,7 +74,7 @@ layout: default
 <td>大井 志穂 (新潟大学)</td>
 </tr>
 <tr>
-<td>$$C^*$$環に値をとる連続写像のなすバナッハ環上の保存問題</td>
+<td>\(C^*\)環に値をとる連続写像のなすバナッハ環上の保存問題</td>
 </tr>
 
 <tr><td colspan="3" style="text-align:center;">昼休み</td></tr>
@@ -142,7 +142,7 @@ layout: default
 <td>木原 浩 (会津大学)</td>
 </tr>
 <tr>
-<td>無限次元 $$C^\infty$$-多様体の滑らかなホモトピー</td>
+<td>無限次元 \(C^\infty\)-多様体の滑らかなホモトピー</td>
 </tr>
 </table>
 
