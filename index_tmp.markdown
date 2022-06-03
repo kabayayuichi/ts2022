@@ -83,7 +83,7 @@ layout: default
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
 <td>佐久間一浩 (近畿大学) 
-<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">zoom講演</span></td>
+<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span></td>
 </tr>
 <tr>
 <td> 折り目写像のトポロジー</td>
@@ -130,7 +130,7 @@ layout: default
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
 <td>田中康平 (信州大学)
-<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">zoom講演</span>
+<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span>
 </td>
 </tr>
 <tr>
