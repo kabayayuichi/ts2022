@@ -20,7 +20,7 @@ layout: default
 7月1日より参加者登録を開始します。しばらくお待ちください。
 
 # プログラム
-<a href="">プログラムのpdf</a>
+<a href="https://drive.google.com/file/d/1pZKnUXha41sEf9aO1B6ysHnXADbx7ibC/view?usp=sharing">プログラムのpdf</a>
 ## 8月17日水曜
 <table>
 <tr>
