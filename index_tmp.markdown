@@ -83,7 +83,7 @@ layout: default
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
 <td>佐久間一浩 (近畿大学) 
-<span style="margin-left:3em; font-weight:bold; font-size:1.1em;">zoom講演</span></td>
+<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">zoom講演</span></td>
 </tr>
 <tr>
 <td> 折り目写像のトポロジー</td>
@@ -130,7 +130,7 @@ layout: default
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
 <td>田中康平 (信州大学)
-<span style="margin-left:3em; font-weight:bold; font-size:1.1em;">zoom講演</span>
+<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">zoom講演</span>
 </td>
 </tr>
 <tr>
@@ -167,6 +167,13 @@ layout: default
 <li><a href="https://www.kitami-it.ac.jp/access/">北見工業大学のアクセス情報のページ</a></li>
 </ul>
 
+# 支援
+第69回トポロジーシンポジウムは<a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">トポロジープロジェクト</a>の一環として，
+- 科学研究費補助金基盤研究 (A)「結び目と 3次元多様体の量子トポロジー」(研究代表者:大槻知忠 課題番号:16H02145)(継続)，
+- 科学研究費補助金基盤研究 (B) 「写像の多重特異点の数え上げ普遍多項式と量子シューベルト算法」(研究代表者:大本亨 課題番号:17H02838)(継続)，
+- 科学研究費補助金基盤研究 (B) 「グラフィクスとカンドル理論の観点からの 4 次元トポロ ジーの研究」(研究代表者:鎌田聖一 課題番号:19H01788)，
+
+の助成により開催いたします。
 
 # 過去のトポロジーシンポジウム
 - <a href="https://kabayayuichi.github.io/ts2021/">第68回トポロジーシンポジウム</a>
