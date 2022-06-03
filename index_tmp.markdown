@@ -74,7 +74,7 @@ layout: default
 <td>大井 志穂 (新潟大学)</td>
 </tr>
 <tr>
-<td>$$C^*$$環に値をとる連続写像のなすバナッハ環上の保存問題</td>
+<td><span>\(C^*\)</span>環に値をとる連続写像のなすバナッハ環上の保存問題</td>
 </tr>
 
 <tr><td colspan="3" style="text-align:center;">昼休み</td></tr>
