@@ -11,7 +11,7 @@ layout: default
 
 日本数学会[トポロジー分科会](https://www.mathsoc.jp/section/topology/)では下記の要領で第69回トポロジーシンポジウムの開催を予定しています。
 - 日時 : 2022年8月17日（水）午前から19日（金）午後
-- 場所 : [北見工業大学](https://www.kitami-it.ac.jp)（2号館 C122 講義室）とオンラインでのハイブリッド開催を予定
+- 場所 : <a href="https://www.kitami-it.ac.jp">北見工業大学</a>（<a href="https://www.kitami-it.ac.jp/wp-content/uploads/2022/01/211222007campucmap-1.11MB.pdf">2号館</a> C122 講義室）とオンラインでのハイブリッド開催を予定
 - 世話人 : 石川昌治(慶應義塾大学)，蒲谷祐一(北見工業大学)，鎌田聖一(大阪大学)，寺垣内政一(広島大学)，森藤孝之(慶應義塾大学)
 
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
