@@ -17,7 +17,7 @@ layout: default
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
 
 # 参加者登録
-7月1日より参加者登録を開始します。しばらくお待ちください。
+参加には事前に参加者登録が必要です。7月1日より参加者登録を開始します。しばらくお待ちください。
 
 # プログラム
 <a href="https://drive.google.com/file/d/1pZKnUXha41sEf9aO1B6ysHnXADbx7ibC/view?usp=sharing">プログラムのpdf</a>
@@ -82,7 +82,7 @@ layout: default
 
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
-<td>佐久間一浩 (近畿大学) 
+<td>佐久間 一浩 (近畿大学) 
 <span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span></td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ layout: default
 
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
-<td>田中康平 (信州大学)
+<td>田中 康平 (信州大学)
 <span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span>
 </td>
 </tr>
