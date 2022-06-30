@@ -17,7 +17,7 @@ layout: default
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
 
 # 参加者登録
-参加には事前に参加者登録が必要です。7月1日より参加者登録を開始します。しばらくお待ちください。
+<a href="https://forms.gle/kxWNEoAZKLz58Vi57">ここから参加者登録</a>してください。締め切りは7月末とします。
 
 # プログラム
 <a href="https://drive.google.com/file/d/1pZKnUXha41sEf9aO1B6ysHnXADbx7ibC/view?usp=sharing">プログラムのpdf</a>
