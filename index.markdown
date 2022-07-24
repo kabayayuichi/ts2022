@@ -147,6 +147,7 @@ layout: default
 </table>
 
 # 北見へのアクセス
+さらに詳しい情報は<a href="https://math.cs.kitami-it.ac.jp/~kabaya/travel/">ここから</a>。
 <ul>
 <li>最寄りの空港は女満別空港 <a href="https://www.mmb-airport.co.jp">https://www.mmb-airport.co.jp</a> です。女満別空港へは，
  <ul>			     
