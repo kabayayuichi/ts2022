@@ -168,6 +168,12 @@ layout: default
 <li><a href="https://www.kitami-it.ac.jp/access/">北見工業大学のアクセス情報のページ</a></li>
 </ul>
 
+# Wi-Fi について
+会場や学内のほとんどのところで eduroam が使えます。
+
+# 会場の機器について（講演者向け）
+講演者向けに，コンピュータを持参した場合の接続方法を<a href="https://math.cs.kitami-it.ac.jp/~kabaya/equipment/">ここ</a>で解説します。
+
 # 支援
 第69回トポロジーシンポジウムは<a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">トポロジープロジェクト</a>の一環として，
 - 科学研究費補助金基盤研究 (A)「結び目と 3次元多様体の量子トポロジー」(研究代表者:大槻知忠 課題番号:16H02145)(継続)，
