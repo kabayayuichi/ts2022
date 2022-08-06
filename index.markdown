@@ -16,6 +16,10 @@ layout: default
 
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
 
+# 感染対策について
+感染対策としていくつかのお願いします。
+「<a href="https://drive.google.com/file/d/1XhJhi_6NVS_hh_n6t4IyOqDe1o_4naDx/view">感染対策について</a>」にまとめましたので，現地参加者の方は事前に確認して下さい。
+
 # 参加者登録
 <a href="https://forms.gle/kxWNEoAZKLz58Vi57">ここから参加者登録</a>してください。締め切りは7月末とします。
 
