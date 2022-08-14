@@ -66,7 +66,8 @@ layout: default
 
 <tr>
 <td rowspan="2" width="90em">14:50~15:50</td>
-<td>湯淺 亘 (大阪公立大学)</td>
+<td>湯淺 亘 (大阪公立大学)
+<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span></td>
 </tr>
 <tr>
 <td>
@@ -75,6 +76,10 @@ layout: default
 </td>
 </tr>
 </table>
+<p style="font-size:90%;">
+湯淺氏の講演をオンライン講演に変更しました(8/14)
+※ ７月末に連絡を受けていましたが、変更を失念しました。申し訳ありません。
+</p>
 
 ## 8月18日木曜
 <table>
