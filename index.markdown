@@ -9,19 +9,12 @@ layout: default
 
 <h1 style="font-size: 40px">第69回トポロジーシンポジウム</h1>
 
-日本数学会[トポロジー分科会](https://www.mathsoc.jp/section/topology/)では下記の要領で第69回トポロジーシンポジウムの開催を予定しています。
+日本数学会[トポロジー分科会](https://www.mathsoc.jp/section/topology/)では下記の要領で第69回トポロジーシンポジウムを開催しました。
 - 日時 : 2022年8月17日（水）午前から19日（金）午後
-- 場所 : <a href="https://www.kitami-it.ac.jp">北見工業大学</a>（<a href="https://www.kitami-it.ac.jp/wp-content/uploads/2022/01/211222007campucmap-1.11MB.pdf">2号館</a> C122 講義室）とオンラインでのハイブリッド開催を予定
+- 場所 : <a href="https://www.kitami-it.ac.jp">北見工業大学</a>（<a href="https://www.kitami-it.ac.jp/wp-content/uploads/2022/01/211222007campucmap-1.11MB.pdf">2号館</a> C122 講義室）とオンライン (ZOOM) でのハイブリッド開催
 - 世話人 : 石川昌治(慶應義塾大学)，蒲谷祐一(北見工業大学)，鎌田聖一(大阪大学)，寺垣内政一(広島大学)，森藤孝之(慶應義塾大学)
 
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
-
-# 感染対策について
-感染対策としていくつかのお願いします。
-「<a href="https://drive.google.com/file/d/1XhJhi_6NVS_hh_n6t4IyOqDe1o_4naDx/view">感染対策について</a>」にまとめましたので，現地参加者の方は事前に確認して下さい。
-
-# 参加者登録
-<a href="https://forms.gle/kxWNEoAZKLz58Vi57">ここから参加者登録</a>してください。締め切りは7月末とします。
 
 # プログラム
 <a href="https://drive.google.com/file/d/1pZKnUXha41sEf9aO1B6ysHnXADbx7ibC/view?usp=sharing">pdf版のプログラム</a> と <a href="https://drive.google.com/file/d/1ydDzZK0S6RWbVP57CenJffRMwee01ack/view?usp=sharing">全体の講演集</a>
@@ -66,8 +59,7 @@ layout: default
 
 <tr>
 <td rowspan="2" width="90em">14:50~15:50</td>
-<td>湯淺 亘 (大阪公立大学)
-<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span></td>
+<td>湯淺 亘 (大阪公立大学)</td>
 </tr>
 <tr>
 <td>
@@ -76,10 +68,6 @@ layout: default
 </td>
 </tr>
 </table>
-<p style="font-size:90%;">
-湯淺氏の講演をオンライン講演に変更しました(8/14)
-※ ７月末に連絡を受けていましたが、変更を失念しました。申し訳ありません。
-</p>
 
 ## 8月18日木曜
 <table>
@@ -110,8 +98,7 @@ Topological complexity of Khalimsky circle
 
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
-<td>佐久間 一浩 (近畿大学) 
-<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span></td>
+<td>佐久間 一浩 (近畿大学) </td>
 </tr>
 <tr>
 <td>
@@ -172,9 +159,7 @@ Topological complexity of Khalimsky circle
 
 <tr>
 <td rowspan="2" width="90em">13:30~14:30</td>
-<td>田中 康平 (信州大学)
-<span style="margin-left:1em; font-weight:bold; font-size:1.5em;">[zoom講演]</span>
-</td>
+<td>田中 康平 (信州大学)</td>
 </tr>
 <tr>
 <td>

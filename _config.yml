@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 第69回トポロジーシンポジウム 2022
+title: 第69回トポロジーシンポジウム 2022 北見
 email: 
-description: 第69回トポロジーシンポジウムのサイトです。北見工業大学とオンラインでのハイブリッド開催を予定しています。
+description: 第69回トポロジーシンポジウム（2022，北見）のサイトです。北見工業大学とオンラインでのハイブリッドで開催しました。
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
