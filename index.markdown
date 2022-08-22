@@ -17,7 +17,8 @@ layout: default
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
 
 # プログラム
-<a href="https://drive.google.com/file/d/1pZKnUXha41sEf9aO1B6ysHnXADbx7ibC/view?usp=sharing">pdf版のプログラム</a> と <a href="https://drive.google.com/file/d/1ydDzZK0S6RWbVP57CenJffRMwee01ack/view?usp=sharing">全体の講演集</a>
+\* シンポジウム期間中にこのサイトで公開していた講演集は<a href="https://www.mathsoc.jp/section/topology/topsymp.html">分科会のページ</a>から利用可能です。
+
 ## 8月17日水曜
 <table>
 <tr>
@@ -27,7 +28,6 @@ layout: default
 <tr>
 <td>
 写像類群の生成系に関する研究の変遷
-<a href="https://drive.google.com/file/d/10Ke26ticAUAZq1idCnhJuMDGUvXAjyiP/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -38,7 +38,6 @@ layout: default
 <tr>
 <td>
 ルジャンドル特異点と情報幾何学
-<a href="https://drive.google.com/file/d/1Bini69cpUODgnvEkd4JCebVlKwx2N2mn/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -53,7 +52,6 @@ layout: default
 <tr>
 <td>
 拡張不可能な不変擬準同型の空間について
-<a href="https://drive.google.com/file/d/1USgAJhF3ocR5Qvq6gYvObCVLlpBzbj1k/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -64,7 +62,6 @@ layout: default
 <tr>
 <td>
 曲面のスケイン代数と量子クラスター代数
-<a href="https://drive.google.com/file/d/1CnqNhSAfua-SUmyEauULp7DrWpJyf4Lu/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 </table>
@@ -78,7 +75,6 @@ layout: default
 <tr>
 <td>
 Topological complexity of Khalimsky circle
-<a href="https://drive.google.com/file/d/1ZlCtu8oalrLkcmlchI4rgHsxqTDKtoz6/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -89,7 +85,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 \(C^*\)環に値をとる連続写像のなすバナッハ環上の保存問題
-<a href="https://drive.google.com/file/d/1Bc3Dy7QzIOciHlls6bCTXfKhCilZ8s3-/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -103,7 +98,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 折り目写像のトポロジー
-<a href="https://drive.google.com/file/d/17D9GmvvWX9Iv5UQNjeZL_vmfqbO9LHTk/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -114,7 +108,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 複素 3 次元空間の座標の絶対値で理解する葉層と Milnor 束のトポロジー
-<a href="https://drive.google.com/file/d/18Sr7Q7ShxxV2dPW0_QbzQfsckXn-0Cgg/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -125,7 +118,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 非コンパクト多様体に対するあるトーラス同変指数について
-<a href="https://drive.google.com/file/d/1mUJlGLNXuJwbDo_m7S-c5waatN4v6QZD/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 </table>
@@ -139,7 +131,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 絡み目の HOMFLYPT 多項式と Kauffman 多項式の係数多項式
-<a href="https://drive.google.com/file/d/1CoNw5DjKg_fZ_VV-MGM9P2XYbC2lnyOt/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -150,7 +141,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 リボン Yetter-Drinfeld 加群とタングル不変量
-<a href="https://drive.google.com/file/d/1HMFbwuHpJKQe_V1Wk-PR8iXjKyO9zrAW/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -164,7 +154,6 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 CW 複体上の境界を跨がないモーション設計とその複雑さ
-<a href="https://drive.google.com/file/d/1zXfDhrpt2hNLWz-lqv_83DRf5q-aDppX/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 
@@ -175,7 +164,6 @@ CW 複体上の境界を跨がないモーション設計とその複雑さ
 <tr>
 <td>
 無限次元 \(C^\infty\)-多様体の滑らかなホモトピー
-<a href="https://drive.google.com/file/d/1G84f8VRYR7-v3q8UHPhEQ4JrBUrtPX19/view?usp=sharing" class="abst" style="margin-left:12px;" >講演集</a>
 </td>
 </tr>
 </table>
