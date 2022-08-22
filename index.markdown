@@ -17,6 +17,7 @@ layout: default
 <a href="https://www.mathsoc.jp/section/topology/topoproj/2022.html">2022年度トポロジープロジェクト</a>
 
 # プログラム
+<a href="https://drive.google.com/file/d/1pZKnUXha41sEf9aO1B6ysHnXADbx7ibC/view?usp=sharing">pdf版のプログラム</a><br>
 \* シンポジウム期間中にこのサイトで公開していた講演集は<a href="https://www.mathsoc.jp/section/topology/topsymp.html">分科会のページ</a>から利用可能です。
 
 ## 8月17日水曜
