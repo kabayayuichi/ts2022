@@ -29,6 +29,7 @@ layout: default
 <tr>
 <td>
 写像類群の生成系に関する研究の変遷
+<a href="https://drive.google.com/file/d/1YeEoWnT0L7Q6jljXYXnPARmQbFXvkLNP/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -39,6 +40,7 @@ layout: default
 <tr>
 <td>
 ルジャンドル特異点と情報幾何学
+<a href="https://drive.google.com/file/d/1vm2qvwE0CeQBKthE7sJnp2dbvaEwYdYk/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -53,6 +55,7 @@ layout: default
 <tr>
 <td>
 拡張不可能な不変擬準同型の空間について
+<a href="https://drive.google.com/file/d/1nYkI2SzNd3SzktIxt-7uYKojMwdhyFuN/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -63,6 +66,7 @@ layout: default
 <tr>
 <td>
 曲面のスケイン代数と量子クラスター代数
+<a href="https://drive.google.com/file/d/19iZJ3gYCFVMen89zaK7-g-Mzrer6R54d/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 </table>
@@ -76,6 +80,7 @@ layout: default
 <tr>
 <td>
 Topological complexity of Khalimsky circle
+<a href="https://drive.google.com/file/d/10bxtZmWm299LVGjdcC0za_cknG97taX4/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -99,6 +104,7 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 折り目写像のトポロジー
+<a href="https://drive.google.com/file/d/1qWeS5fmr8SajkTphG3_YKeJZ3iTdeod5/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -109,6 +115,7 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 複素 3 次元空間の座標の絶対値で理解する葉層と Milnor 束のトポロジー
+<a href="https://drive.google.com/file/d/1elhbBK-zlQsVi5QXG0BZOYvxHGeoZVaZ/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -119,6 +126,7 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 非コンパクト多様体に対するあるトーラス同変指数について
+<a href="https://drive.google.com/file/d/1N3vT3o8jlKcoWrnbByLYnuC6PHXgi6sZ/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 </table>
@@ -132,6 +140,7 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 絡み目の HOMFLYPT 多項式と Kauffman 多項式の係数多項式
+<a href="https://drive.google.com/file/d/165ix8BS6keoCdnoiRSL979upVxBgvq2d/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -155,6 +164,7 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 CW 複体上の境界を跨がないモーション設計とその複雑さ
+<a href="https://drive.google.com/file/d/1XRF44E5YGzkyPauhxd3WM-kCx68mNr3F/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
@@ -165,6 +175,7 @@ CW 複体上の境界を跨がないモーション設計とその複雑さ
 <tr>
 <td>
 無限次元 \(C^\infty\)-多様体の滑らかなホモトピー
+<a href="https://drive.google.com/file/d/1QMOSyQ5K2Ni3en8q88ViCj895VSKL4o5/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 </table>
