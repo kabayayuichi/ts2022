@@ -91,6 +91,7 @@ Topological complexity of Khalimsky circle
 <tr>
 <td>
 \(C^*\)環に値をとる連続写像のなすバナッハ環上の保存問題
+<a href="https://drive.google.com/file/d/1X7P2blkouBbYrF0GrjLCNEYx3JKQMWBs/view?usp=sharing" style="margin-left:12px;" >スライド</a>
 </td>
 </tr>
 
